@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jTextField2" max="32767" attributes="0"/>
+                  <Component id="jTextField1" max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Tlacitko1" linkSize="1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Tlacitko4" linkSize="1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Tlacitko7" linkSize="1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Tlacitko0" linkSize="1" max="32767" attributes="0"/>
+                          <Component id="LevaZavorka" linkSize="1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="C" linkSize="1" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="Tlacitko5" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="Tlacitko6" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="Tlacitko2" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="Tlacitko3" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="Tlacitko8" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="Tlacitko9" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="superTlacitko19" linkSize="1" min="-2" pref="39" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="superTlacitko22" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Deleni" linkSize="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Nasobeni" linkSize="1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Minus" linkSize="1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Plus" linkSize="1" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="PravaZavorka" linkSize="1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Rovnase" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="CE" linkSize="1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="Arrow" linkSize="1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ANS" linkSize="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jTextField1" min="-2" pref="30" max="-2" attributes="0"/>
+              <EmptySpace pref="16" max="32767" attributes="0"/>
+              <Component id="jTextField2" min="-2" pref="30" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="C" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="CE" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Arrow" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ANS" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Plus" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko3" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko2" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko1" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Minus" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko4" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko5" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko6" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Nasobeni" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko9" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko8" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko7" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Deleni" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Tlacitko0" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="superTlacitko19" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="superTlacitko22" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LevaZavorka" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="PravaZavorka" linkSize="2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Rovnase" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoJedna(),&quot;1&quot;,KeyEvent.VK_1, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoDva(),&quot;2&quot;, KeyEvent.VK_2, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoTri(),&quot;3&quot;, KeyEvent.VK_3, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoCtyri(),&quot;4&quot;,KeyEvent.VK_4, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="5"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoPet(),&quot;5&quot;,KeyEvent.VK_5, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="6"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoSest(),&quot;6&quot;,KeyEvent.VK_6, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="7"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoSedm(),&quot;7&quot;,KeyEvent.VK_7, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="8"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoOsm(),&quot;8&quot;,KeyEvent.VK_8, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="9"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoDevet(),&quot;9&quot;,KeyEvent.VK_9, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoC(),&quot;C&quot;,KeyEvent.VK_1, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="CE">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CE"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoCe(),&quot;CE&quot;,KeyEvent.VK_DELETE, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Arrow">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;--"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoSipka(),&quot;&lt;--&quot;,KeyEvent.VK_1, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Plus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="+"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoPlus(),&quot;+&quot;,KeyEvent.VK_PLUS, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Minus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoMinus(),&quot;-&quot;,KeyEvent.VK_MINUS, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Nasobeni">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="*"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoNasobeni(),&quot;*&quot;,KeyEvent.VK_MULTIPLY, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Deleni">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="/"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoDeleni(),&quot;/&quot;,KeyEvent.VK_DIVIDE, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Tlacitko0">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoNula(),&quot;0&quot;,KeyEvent.VK_0, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="LevaZavorka">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="("/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoLevaZavorka(),&quot;(&quot;,KeyEvent.VK_BRACELEFT, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="superTlacitko19">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="."/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoTecka(),&quot;.&quot;,KeyEvent.VK_DECIMAL, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="PravaZavorka">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=")"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoPravaZavorka(),&quot;(&quot;,KeyEvent.VK_BRACERIGHT, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="Rovnase">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="="/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoRovnase(),&quot;=&quot;,KeyEvent.VK_EQUALS, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="superTlacitko22">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="+/-"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoPlusMinus(),&quot;+/-&quot;,KeyEvent.VK_MINUS, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="tlacitka.SuperTlacitko" name="ANS">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ANS"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new tlacitka.SuperTlacitko(new TlacitkoAns(),&quot;ANS&quot;,KeyEvent.VK_1, jTextField1, jTextField2)"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
